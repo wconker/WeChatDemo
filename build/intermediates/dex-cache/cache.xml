@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.12.0/3742beff8024d0a0073d284b7c5e4cbf73d99b25/okio-1.12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.12.0_3b2937b379979ad873e8e9424ba802004dd825fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/TencentLocationSDK_v4.9.7.12_r247861_161205_1104.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94f448b2cf8726ea2a1f2226c899855c070a8ba5">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/TencentLocationSDK_v4.9.7.12_r247861_161205_1104_2faff04d668c67261edd77ab0f3160bdd8714913/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/9014ac347f1d66622a99e2daf5cdbcc8bca735f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85dc74234e21cd36640e8c1a1643636c4d797dd7">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c90fc7bd9b755bffb14486443f7a49164337c2e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/MobTools-2017.0322.0931.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="242b3a8f9b6b47d2ea8cf932cd978a5b6651d22a">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobTools-2017.0322.0931_f37faa02455b03d93e5be4a6373a4d51ccd3fdd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-Wechat-Core-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="002b4be4096d7ce75e969449fc81b62e312748a6">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Core-2.8.2_f13a153ba58df858536c1305a214fc3e452f1987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/0ebdc1a174c5010f356696c936f00dce947b682c/output/jars/libs/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e2ec9a1a288c4a652f0611e2c2c31ab0f9df8fb">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.5_f02c653195f4292c73f290a19077fc37574e434f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-Twitter-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6b3827ab45de1b3b7df380c2ba95e53e3d5228">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Twitter-2.8.2_987fa7927656162c5fab05d99bca2dd5bb9db1b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.29/2878958d7631337dcfe3bb4e541aa34478367e66/fastjson-1.2.29.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2878958d7631337dcfe3bb4e541aa34478367e66">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.2.29_0b7d3f3c7927f8b08957b4bd52253dadb5b60a0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/e6db5c91568f9e7f6951f1016439e4bc68a1fb68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52314a049156dacf4585819f613ba72540e1e76b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-Alipay-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="436a2c5270cc10b2c47eaa36f0eb18e79550532e">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Alipay-2.8.2_8e007162db028a65be7373ba7639f3ed8ebf50dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/f25b88ff00d53b5a437b92ebc929410ea358f144/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8718be9491bf14e701e7c88bf6f4e30e5eb594e5">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9322c2f07b5411fb15314036341cde542738396/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-QQ-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb64a7456b98849ee2868a55aa0b3bb3f6e6a29">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QQ-2.8.2_a1be060f6ca5b83dba6e929794dd4a6f36cfcb01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/567f7fab4303d9f88c478f9664a59cff49abc98d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_236ad66f83f88cfc87c3915ff88733208d029035/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/6262b42d6dfa68ab0422f42a5fc5baa05c10ce17/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9eb3be4592374ad0e63c354c3e75bc842978735d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-Facebook-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb4a741c1bce3db23e592b939933cf9872bc20b">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Facebook-2.8.2_9b30299d7d05aba7e0e9485c230a5eec2b6a0f5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/d15141b8188dd01d11d0ae6101899c5c413d5b78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_270aa103bc23ac84c41f18d8ca2151ade9034b0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/1728100cb95e8eca948e4fa112fca87455b5fbc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e53517cd5071ca1e42548f05322ad87461098b58">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32ec59589d96dee7a3ca50ed2bbbca5792a3deaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/3d933baf8ab011f916a2fe2886d5306899039ec9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f577701fa1e05f14bde07bfbd522ced08fe1f7a0">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41ba934e8b841360cf7fae4a12415fa90344b2ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/2c1e50a7696174522e71e65a7954aeb69bc85c9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8beae08e4eedb3b53dbab4756257b47bed8b84ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/b688beafc3e6a00175bc2691b74415363b0195bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34859058d4a3d6825bd3f3352fbae9391bc5d16e">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54aa70f7544e9f1dd29f6e7b56f3787e4aabd0a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/d035215cd2a20e354ef5cfc23b6d320a8a236af9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_534ce33ee84330299436187d82870a636f5e0d1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/c66a821338df0e2633287129a775dce4b95eb4ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="113bc9ba82c6c3b679b612ede97e8d844b58e692">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b50fb2eed1c5ef83bcaa111d84deef18d29f6938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-Email-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6af2c732a480ae98d94b3413e8a49daca39c11f4">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Email-2.8.2_39fa37e4935723a7d7b70b228e8bbc4e0b195d62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/volley-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley-1.0.19_7b767f57e548b101264c2bb5832c2fc241e63ec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/844ba33aa582cf52eba717fa6fe4e48b599e82ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_213da7cdde7d5d8afecf78b2471c3effccf4d05e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/4793b6866d21057b33492bf428afc40cdf423441/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00668d0d7746d639844de7c56a24ea16704ab9a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/2debf801b0fccf31d803a89ff9505146cccf3fc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2174803422658377f8192942b929998c72494eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-ShortMessage-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e19bf208ba05ecd52d4301461b6570b26ab3dcb1">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-ShortMessage-2.8.2_e5aaf466957316f5ffda19d7d7e2a364d76d3618/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_830fb2a050810a961b9a2ad036ad440a1751346f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/joda-time-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c73038a3688525aad5cf33409df483178290cd64">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/joda-time-2.5_9dc07730319e729941b55cc3be7d242bdba43dc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/61e6a79c3287668c0aa26536efc657d551bbed3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="567eb88aebc66bd2d9928ba72adb5bb0285c7cf0">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_837e53aa83b2b8ce3c4b0ea6e74f8705237d32fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/5908562c138f9ea689dbe8cbee70f89b1bc9fb82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bff8d4b639066c27903c1cc965e9fa8bbbcdd7e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/pinyin4j-2.5.0_3dfefeeaa8605da918b15c86a9f7484dfdd76cdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_6dbde185835eb999c37ff8954ccb586f390f790f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.1_e1d4232d7593fc911ac6664847d72e5df8d57520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/2af22a5c0c9c88f2066aa70c996eb446abf62702/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef07592b18fc51c0b95113918b02a942bd275f51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/Rong_IMLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="020fb7ece0df1f4df0f359114bea119dd0aa71d5">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/Rong_IMLib_0ca0421231032c9a8d40274f2d6c703557e46116/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/59d3140d232fa0101d48915f45693b9e116691c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5079e5fd491e9cda6597074c383db035e25e4696">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29e2c88f94ffad2a0f3a43a560fadf839a93815f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/02abec9df515672ce93caaae337f2c0d7cab073b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29f6263be3d2efda453243e8ce31e74afa5e1cf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-Alipay-Moments-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87066c53ca2eb2dacb3089c0cd7e69e868d62245">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Alipay-Moments-2.8.2_7d0169b40505225b778a69a1f504d6b1ed36c47e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_28bf29880e36a1d7835c99257ae1e9ba9b27f6ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/3c904e35907e7d33766bf743a75faf3d27a0cb86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="634ccf52c8b58a9eafd4a574b38d165e8648a574">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8b191c797b5868d4d6b487decc93fe4c9eea511/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/TencentSearch1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="195c1468964b5b9491a2d279469e8e52438e85c0">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/TencentSearch1.1.3_33095398d0b18700c8389f3cce8794932ce2c981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.2/5e227e2d794cf680dd34fb04dd564ce58d6c764d/baseLibrary-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e227e2d794cf680dd34fb04dd564ce58d6c764d">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.2_75cf2691a114b7eea3113a1b54f6b27d63b259e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/f910b3a20c62115e4ec4ae563e8325c231f29fa5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3066df47f583d1f3eabe00d4c60dffdd3d356f93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/7e0e41eb52e77984230dc1759f03ba01a065a2ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95ef00b38908e1ff38306fff9bc2b3f41c55d95b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-SinaWeibo-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e8408628154b6e153c46dc0217cfa4b6ed0694b9">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-SinaWeibo-2.8.2_93ec5f2e1feb61e85fb136d722a7cc085c3cd506/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/0ebdc1a174c5010f356696c936f00dce947b682c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3210d27e22712d25363719194822e349ba8d6c79">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_995ccc5485ea7e52fa06cb1333c31c1f5731524e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/44f1a4c37121aae5b3af314ed4819d9fe52a9b0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac38cec2b75fc0f3b46f37c477dbeceb4afc7af">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd3eb76a49f171eb73b1395b42b709a768514f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/1ba4ba541d92b6529a88e00dce5c120551aadbda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc8e3e3b486160c2382f499319b1c70adbf32575">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_210afcdcdf68a7e54d7a9bf89bd28cfdfede2e10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_5064f414e99a52351e40a2eaaf73654f4a04e45d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/7a3ecd3a47145e32d04d23a7651c166c59156b36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c6e253efe436e42d001b5b7dd0e12fda5aaba95">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6f003dde7b2d5f835248f131a4fe9b31873b235/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_b1e63f490f3b5e8cae6c598e5836ee7df46443b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Source/android-sdk-macosx/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_6b02ab6e1a90358a66c362a14fdfa03553613b31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-TencentWeibo-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30b58e68a37b15c6159ebe6983e58e84743e1e3f">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-TencentWeibo-2.8.2_4c4ffcd83a9b3d5090b4fc2ec5aaf3fe29777a2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/41fd3b43fea1808b89f0a3edd1e60eae6b38bd34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6787e9d289918a20148811dc261349550ccbe46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/d01851847679f409e359834cade4606fa0e8c312/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b20b4db3efb97b16c813140839594e575d80166">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e20eaa56944afd85673374b470d2475b000bd89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_0fa2c0a73fc2c526933e5702ca2344c19f098fd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/e13d752dbf9dc38163cb85675124fdf0adb8938e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d81e8e92c15fe91e260cf1f012dcc99b14748dfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.qiniu/qiniu-android-sdk/7.3.3/ce507a5826e9d737bad0842fd4a78053c2371343/qiniu-android-sdk-7.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce507a5826e9d737bad0842fd4a78053c2371343">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/qiniu-android-sdk-7.3.3_d1b933dfdf5f7b303dfe8a2986cb48e713433bdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.qiniu/happy-dns/0.2.7/d94b7987386a3aabbb5aa0be21589f72931f0489/happy-dns-0.2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d94b7987386a3aabbb5aa0be21589f72931f0489">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/happy-dns-0.2.7_01a4e6b38138659def5fa76ece5a56497fb5a082/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/MobCommons-2017.0322.0931.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d49d36ec407502d69c217d81a87283eba9c746b2">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobCommons-2017.0322.0931_5b7a90babbf8cfd12eae768b3fa18a3aa6149dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_1e0eff575011420951473c91c6f2d3d3fc4a7865/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-Wechat-Favorite-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1af0c437d793e4f8689be564e02b8c2dec50488a">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Favorite-2.8.2_26b39689b1fc9572480ce93a3af5a51890ccbe1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-Wechat-Moments-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b40dd5cc7381571d1cc57e03fcf328598d559c4">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Moments-2.8.2_53cca8738bd08c54b4127d5ac4164283e9e44a1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/abdced779e0274a3137c68e0811330c0ab96ca8c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8cce6daddc03ddefd4dff0b89710b9adef489511/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/be3c8d5fbb48a4c171f51eacc54c921e2304fb14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b69b69f0f434b79d767329fcf1ca6ba1540c509">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f34e709fb1e998d9f5351d8c45d8196417179c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/229f5c08dc5f63dd4722808e26b350cb2863ab42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772452261af8eb9c1df9ae71fb621afe393277da">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_751171f09d37c0be1cdbc33f56a8248064547e60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/alipaySdk-20161129.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9356473ed942faa70a18f34883af52681e1c7223">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipaySdk-20161129_cc06d0e62910045e13656f5e3eca8710524b3bf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/1d2d48d6d937d1c4f2beff033e8c3aa195d89e42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd36be87274f74905f465f9f5e6e4fa3d79edc4">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87ec2f97cc208a956ab46c5499b2ab2c8021b892/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Source/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_49574cbc81c910c8ad74c29ceff72ed8525a78ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/7c53461008508f2e2e625ef78fa8861ebabc3b46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d01da7160e8c7f25cd67a1e7a1d36d24b1587b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-Wechat-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3f9d8cdaf36e449309698b6d3ec46fd47e4e14c">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-2.8.2_8641c27fd87a033eb5fbb634ac2136839d0b00b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/853fde3af65adeb26b79516aa4d66a5f30695a91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f8b272b57d04a75fd5e1e0b7e8e657a50b7137b">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05effea58a107629b5a05eb3f88e7a5ec696746b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-Core-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="521f72e4ce63c721c5d3006bfa4fa712dd51bea9">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Core-2.8.2_2c7d26c1a6ae041ba15ecc75a702660794ebb20a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/TencentMapSDK_Raster_v_1.2.7_51ae0e7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd015da6004ed72abf1936d7a33b6bccc00ef866">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/TencentMapSDK_Raster_v_1.2.7_51ae0e7_87574c996317a6f8a03d50b7eec226c287d554b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/1fdbd90ca800e02eb955f5c7c4f024c6ba94c55c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_641e0a454530dccce74bf015037bbbcb0de67270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/fdd0f6b79bfe205f73fb13062d8b68ad7c6c16d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e57fe155cea810fb2ba5fe9ffabcb197ecf81d1">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5a3c20d4f446f9d6556f84aa7547d98b4941f83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-Alipay-Core-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06bd4cf516c4809b57eb40ae74a8a29e1d6ffcaf">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Alipay-Core-2.8.2_ba7ff14c0818381dbefb4ef003f7776ff49bf988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/Desktop/LQRWeChat/app/libs/ShareSDK-QZone-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc2c7e7eaa2bad4c5333b6471d388a64df781d1b">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QZone-2.8.2_ada5f013d060b1ebaa28d9370143c50e1acdf29a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_9b74a427f84b5c461198850b16a96a62d28c8220/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_7cd67cedc49a83f5e235370544bf3f355a14b0c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wukanghui/.android/build-cache/c5705879f4c0451a0a299c282d873cd55470e9b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/wukanghui/Desktop/LQRWeChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2da4c65150beff23d5e125f8db58dc3a5cb67aa4/classes.dex" />
+    </item>
+
+</items>
